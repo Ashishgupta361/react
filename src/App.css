@@ -1,5 +1,5 @@
 .con {
-  background-color: blueviolet;
+  background-color: rgb(117, 6, 6);
   text-align: center;
 }
 
@@ -12,13 +12,31 @@ h3 {
   color: rgb(13, 2, 23);
   margin: auto;
   padding: 10px;
+
 }
 
 button {
   margin: auto;
   background-color: aliceblue;
+  color: rgb(7, 14, 3);
 }
 
 div {
   text-align: center;
+  width: 500px;
+  background-color: blueviolet;
+}
+
+form {
+  padding: auto;
+  border: 1px;
+}
+
+span {
+  width: 500px;
+  border: 2px;
+}
+
+h1 {
+  background-color: blue;
 }
