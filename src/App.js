@@ -69,7 +69,7 @@ function App() {
 
 
         <h3>Addition</h3>
-        <button onClick={add}>sum</button>
+        <button onClick={add}>Sum</button>
 
         <h3>Subtraction</h3>
         <button onClick={st}>Minus</button>
