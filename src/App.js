@@ -5,7 +5,7 @@ function App() {
     <div>
 
       <h1 >hello Ashish</h1>
-      <h2>my first project in react js:
+      <h2>my first project in react js:software
 
 
 
